@@ -6,4 +6,4 @@ Here is the interactive link to binder where you can run it yourself
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/N-Harish/Twitter_Sentiment_Analysis/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NHarish/Twitter_Sentiment_Analysis/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NHarish/Twitter_Sentiment_Analysis/blob/master)
